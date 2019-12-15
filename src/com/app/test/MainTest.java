@@ -9,6 +9,9 @@ public class MainTest {
 		System.out.println("Some work is here");
 		
 	}
+	public MainTest() {
+	System.out.println("This is no parameterized constructor");
+	}
 	public static void main(String[] args) {
 		addData("Data");
      System.out.println("Mian Method");
