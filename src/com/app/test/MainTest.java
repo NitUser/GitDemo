@@ -6,7 +6,6 @@ public class MainTest {
 		if(data==null) {
 			System.out.println("No any Work");
 		}
-		System.out.println("Some work is here");
 		
 	}
 	public MainTest() {
