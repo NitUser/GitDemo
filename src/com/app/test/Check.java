@@ -4,6 +4,9 @@ public class Check {
 
 	public Check() {
 		System.out.println(" Check class contructor");
-		System.out.println("Hello check");
+	}
+	
+	public static void m1() {
+		System.out.println("m1 method");
 	}
 }
